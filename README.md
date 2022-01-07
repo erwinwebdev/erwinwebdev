@@ -1,4 +1,4 @@
-<h2 align="left">Hay🤚</h2>
+<h2 align="left">Hey🤚</h2>
 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **No project No life**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/erwin-624085219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erwin-624085219/" height="30" width="40" /></a>
 <a href="https://instagram.com/winwebdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="winwebdev" height="30" width="40" /></a>
