@@ -1,13 +1,10 @@
-<h1 align="left">Hi 👋, I'm erwin</h1>
-<h3 align="left">I am a frontend developer</h3>
+<h2 align="left">Hello👋</h2>
 
-- 🔭 I’m currently working on [Landing Page Portfolio](https://github.com/erwinwebdev/simple-portfolio-2)
+- 🤔 My name is erwin
+
+- 🔭 I’m Frontend Web Developer
 
 - 🌱 I’m currently learning **Dart, Flutter**
-
-- 🤔 I’m looking for help with [My Hero](https://stackoverflow.com/?newreg=eadf03973f324abeb995634cfe18fe63)
-
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **erwinwbdev@gmail.com**
 
