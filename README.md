@@ -1,9 +1,10 @@
-<h2 align="left">Hello👋</h2>
+<h2 align="left">Hay🤚</h2>
 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
 
-- 🤔 My name is erwin
+
+- 🤓 My name is erwin
 
 - 🔭 I’m Frontend Web Developer
 
