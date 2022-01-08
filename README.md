@@ -2,13 +2,9 @@
 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
-
-
-- 🤓 My name is erwin
-
-- 🔭 I’m Frontend Web Developer
-
-- 🌱 I’m currently learning **Dart, Flutter**
+## 🍊 erwin 's Github Profile
+ <p>I am erwin, I’m a Front End developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
+ I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with React js .</p>
 
 - 📫 How to reach me **erwinwbdev@gmail.com**
 
