@@ -2,7 +2,7 @@
 
 <img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
 
-<h2> :mango: erwin 's Github Profile</h2>
+<h2> :mango: My Profile</h2>
  <p>I am erwin, I’m a Front End developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
  I learn fast and can adapt quickly to teamwork . I specialize in JavaScript and creating projects with React js .</p>
 
