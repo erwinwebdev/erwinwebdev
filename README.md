@@ -1,6 +1,6 @@
 <h1 align="left">🚀Hello Devs</h1>
 
-<img align="right" width="300" src="https://i.imgur.com/ugWb6BU.gif" />
+​![nadeshiko](https://user-images.githubusercontent.com/88925590/179387545-85ab4166-360a-4ed3-b7d6-e43950d2d30a.gif)
 
 <h2> :mango: My Profile</h2>
  <p>I am erwin, I’m a Front End developer who’s building unique websites and always been motivated to constantly improve my skills and improve myself professionally. 
